@@ -5,6 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/N00233944/gamedev/gamedevlab02/lab02/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/N00233944/gamedev/gamedevlab02/lab02/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/N00233944/gamedev/gamedevlab02/lab02/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/F9/PJAVE5WT21PLLLT9PGKSSK.uasset",
+				"C:/Users/N00233944/gamedev/gamedevlab02/lab02/Content/Blueprints/rotatingHazard.uasset",
+				"C:/Users/N00233944/gamedev/gamedevlab02/lab02/Content/Blueprints/collectable.uasset",
+				"C:/Users/N00233944/gamedev/gamedevlab02/lab02/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/2E/N50NTYN4M58V1ZQC408UFU.uasset",
+				"C:/Users/N00233944/gamedev/gamedevlab02/lab02/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/QY/FSMNL3KLM133J5VKZAU0BE.uasset",
+				"C:/Users/N00233944/gamedev/gamedevlab02/lab02/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/N00233944/gamedev/gamedevlab02/lab02/Content/countdownTimer.uasset",
+				"C:/Users/N00233944/gamedev/gamedevlab02/lab02/Content/Blueprints/explosion.uasset",
+				"C:/Users/N00233944/gamedev/gamedevlab02/lab02/Content/Blueprints/lamp.uasset",
 				"D:/AAAAAAGameDevY3/gamedevlab02/lab02/Content/Blueprints/collectable.uasset",
 				"D:/AAAAAAGameDevY3/gamedevlab02/lab02/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/V6/3FZF445B61GPTES8K7ICBS.uasset",
 				"D:/AAAAAAGameDevY3/gamedevlab02/lab02/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/R2/56MSL1SPNHPJB32WBHMZ80.uasset",
@@ -18,12 +29,7 @@
 				"D:/AAAAAAGameDevY3/gamedevlab02/lab02/Content/Blueprints/trap.uasset",
 				"D:/AAAAAAGameDevY3/gamedevlab02/lab02/Content/Blueprints/trap_dispatcherr.uasset",
 				"D:/AAAAAAGameDevY3/gamedevlab02/lab02/Content/Blueprints/explosion.uasset",
-				"D:/AAAAAAGameDevY3/gamedevlab02/lab02/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/JD/CFXXOBFX8F2PS6IVP30J1T.uasset",
-				"C:/Users/N00233944/gamedev/gamedevlab02/lab02/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
-				"C:/Users/N00233944/gamedev/gamedevlab02/lab02/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/N00233944/gamedev/gamedevlab02/lab02/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/F9/PJAVE5WT21PLLLT9PGKSSK.uasset",
-				"C:/Users/N00233944/gamedev/gamedevlab02/lab02/Content/Blueprints/rotatingHazard.uasset",
-				"C:/Users/N00233944/gamedev/gamedevlab02/lab02/Content/Blueprints/collectable.uasset"
+				"D:/AAAAAAGameDevY3/gamedevlab02/lab02/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/JD/CFXXOBFX8F2PS6IVP30J1T.uasset"
 			]
 		}
 	]
